@@ -9,8 +9,12 @@
 
 
 
-let person_Name = " \tGhulam Mustafa\n "
+let person_Name = " \tGhulam\n \tMustafa\n "
 console.log(person_Name)
+
+console.log('Ghulam Mustafa')
+
+
 
 
 
