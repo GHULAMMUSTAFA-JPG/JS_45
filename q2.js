@@ -3,7 +3,7 @@ let personName = 'Ghulam Mustafa'
 
 // case1
 
-let Name = personName.toLowerCase();
+let Name = personName.toLowerCase()
 console.log(Name)
 
 // case2
